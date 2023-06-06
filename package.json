@@ -1,0 +1,27 @@
+{
+  "name": "books-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunno-de-Oliveira-Cabral/books-server.git"
+  },
+  "keywords": [],
+  "author": "Brunno Cabral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brunno-de-Oliveira-Cabral/books-server/issues"
+  },
+  "homepage": "https://github.com/Brunno-de-Oliveira-Cabral/books-server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0"
+  }
+}
